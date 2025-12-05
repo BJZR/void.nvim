@@ -50,8 +50,8 @@ if [ -f "lua/void/init.lua" ]; then
     echo -e "${GREEN}✓${NC} Tema copiado desde repositorio local"
 else
     # Descargar desde GitHub
-    GITHUB_USER="tu-usuario"  # Cambiar por tu usuario
-    curl -fsSL "https://raw.githubusercontent.com/BJZR/void.nvim/main/lua/void/init.lua" \
+    GITHUB_USER="BJZR"  # Cambiar por tu usuario
+    curl -fsSL "https://raw.githubusercontent.com/$GITHUB_USER/void.nvim/main/lua/void/init.lua" \
         -o "$NVIM_CONFIG/lua/void/init.lua"
     echo -e "${GREEN}✓${NC} Tema descargado desde GitHub"
 fi
