@@ -31,7 +31,7 @@
 -- @@@@@@@@@@@@@@@@@@@@@@@@@@********************@@@@@@@@@@@@@@@@@@@@@@@@@@
 --
 --
---   Pagina de Assic: https://bjzr.github.io/imagen_ascii/
+--   Pagina de Ascii: https://bjzr.github.io/imagen_ascii/
 --   Colorscheme:    void.nvim - Void Linux inspired theme
 --   Description:    Professional Neovim colorscheme with Void Linux colors
 --   Author:         https://github.com/BJZR/void.nvim
